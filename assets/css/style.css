@@ -31,6 +31,7 @@ header .top-bar {
   margin: 0 -13px;
   display: flex;
   flex-wrap: wrap;
+   margin-bottom: 30px;
 }
 
 .grid-system .col-3 {
